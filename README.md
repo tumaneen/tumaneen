@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Fatimah 👋
 
-<!--
-**tumaneen/tumaneen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graphic designer with a CS degree. I design interfaces and brands, then vibe code them into working pages.
 
-Here are some ideas to get you started:
+## What I do
+- 🎨 Brand identity, logo and packaging design
+- 🖥️ UI/UX design: wireframes, flows, prototypes and design systems in Figma
+- ✨ Motion design and prototype animations in Figma
+- 💻 Vibe coding: turning my UI designs into live web pages with AI-assisted coding
+- 🖨️ Print, typography and layout
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main tool
+**Affinity Designer** is my main design tool. I use it for logos, illustration, brand identity and print layouts.
+
+## Other tools
+Figma · Illustrator · Photoshop · Canva · HTML/CSS · AI coding assistants
+
+## Portfolio in progress
+I'm building my portfolio in public and adding projects as I finish them.
+- 🔗 Live work: behance.net/fatimahghani
+- 🌐 Portfolio website: coming soon (designed in Figma, vibe coded, hosted on GitHub Pages)
+- 📝 Case studies: process, sketches, iterations and final designs for each project
+
+## Let's connect
+LinkedIn: linkedin.com/in/fatimahghani
